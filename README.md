@@ -28,7 +28,9 @@ Data is just pure information and functions take data as an input and produce da
 The final language will be just data but you can combine data and functions to produce the final language.
 
 This is all the different interacting systems:
+
 **Data:**
+
 - Semantic Map
     - Defines words and relations between words and with every word just being a stand alone JS-style object.
 - Vocab Tree
@@ -39,6 +41,7 @@ This is all the different interacting systems:
     - The actual language, with every word with their meaning, and usage written out.
 
 **Functions**
+
 You can create functions you please, so there is no set list of functions but there are types.
 Functions can only output one type of data, so we group functions based on what they output.
 A function that outputs a Semantic Map is a Semantic Map Function while one that outputs a Vocab Tree is a Vocab Tree Function.
