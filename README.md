@@ -37,6 +37,7 @@ This is all the different interacting systems:
     - A set of rules that say how to represent the paths a vocab object gives a word.
 - Dictionary
     - The actual language, with every word with their meaning, and usage written out.
+
 **Functions**
 You can create functions you please, so there is no set list of functions but there are types.
 Functions can only output one type of data, so we group functions based on what they output.
