@@ -38,7 +38,7 @@ This is all the different interacting systems:
 - Dictionary
     - The actual language, with every word with their meaning, and usage written out.
 **Functions**
-You can create as functions you please, so there is no set list of functions but there are types.
+You can create functions you please, so there is no set list of functions but there are types.
 Functions can only output one type of data, so we group functions based on what they output.
 A function that outputs a Semantic Map is a Semantic Map Function while one that outputs a Vocab Tree is a Vocab Tree Function.
 A function's input can be anything, even other functions. You can also have strings ("fast") and numbers (5).
